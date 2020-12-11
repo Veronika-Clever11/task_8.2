@@ -7,3 +7,4 @@ document
       document.querySelector("#text").value
   );
 });
+
